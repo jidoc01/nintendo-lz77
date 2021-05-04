@@ -1,2 +1,10 @@
 # nintendo-lz77
-Provides scripts to encode/decode binaries with Nintendo LZ77 algorithm.
+A simple python script to (un)compress binaries with Nintendo LZ77 algorithm.
+
+## Features
+
++ Support Nintendo-style LZ10 uncompression
+
+## Usage
+
+See `usage.py` file.
